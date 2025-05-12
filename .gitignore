@@ -1,0 +1,6 @@
+/node_modules
+.env
+package-lock.json
+
+
+src/config/alqvimia-counter-u7c4j-2acdedebfa38.json
