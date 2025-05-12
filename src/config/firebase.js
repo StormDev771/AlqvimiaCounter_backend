@@ -1,5 +1,5 @@
 const admin = require("firebase-admin");
-const serviceAccount = require("./alqvimia-counter-u7c4j-2acdedebfa38.json");
+const serviceAccount = require("../../alqvimia-counter-u7c4j-2acdedebfa38.json");
 
 // Initialize Firebase Admin with full admin privileges
 const firebaseApp = admin.initializeApp({
